@@ -1,7 +1,9 @@
 # Nova
 This repository presents code and information on the arcticle published in ICSR + AI 2025 - Nova: A Novel Approach for Game Narration.
 
-The code needed to generate narrations is presented in gen-narrations.ipnyb.
+For more details on Chef's Hat, please refer to: https://whisperproject.eu/chefshat.
+
+Nova's structure, includind the code needed to generate narrations is presented in: gen-narrations.ipnyb.
 
 There, you will also find the prompts.
 
