@@ -1,11 +1,11 @@
 # Nova
-This repository presents code and information on the arcticle published in ICSR + AI 2025 - Nova: A Novel Approach for Game Narration.
+This repository presents code and information on the arcticle published in the International Conference on Social Robotics + AI 2025 - Nova: A Novel Approach for Game Narration.
 
 For more details on Chef's Hat, please refer to: https://whisperproject.eu/chefshat.
 
 Nova's structure, includind the code needed to generate narrations is presented in: gen-narrations.ipnyb.
 
-There, you will also find the prompts.
+There, you will also find the prompts:
 
 **Descriptor:**
 """Chef's Hat is a four player card game where your goal is to discard all cards before the other players do.
